@@ -1,7 +1,7 @@
  # ProgressBelajarKu
-Repository yang berisi tentang progress belajar di dicoding
+### Repository yang berisi tentang progress belajar di dicoding
 
-*15- Agustus - 2023*
-- 100% Selesai pada bab Memulai Dasar Pemrogaman untuk Menjadi Pengembang Software
-- 100% Selesai pada bab Pengenalan ke Logika Pemrogaman (Progamming Logic 101)
-- 38% Selesai dalam bab Belajar Dasar Git dengan Github
+##### *15- Agustus - 2023*
+* 100% Selesai pada bab Memulai Dasar Pemrogaman untuk Menjadi Pengembang Software
+* 100% Selesai pada bab Pengenalan ke Logika Pemrogaman (Progamming Logic 101)
+* 38% Selesai dalam bab Belajar Dasar Git dengan Github
