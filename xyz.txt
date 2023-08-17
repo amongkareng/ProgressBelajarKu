@@ -1,0 +1,3 @@
+x 1
+x 2
+1/2 alas x tinggi = luas segitiga
